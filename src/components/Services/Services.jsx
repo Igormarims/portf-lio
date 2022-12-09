@@ -130,10 +130,8 @@ const Services = () => {
             </li>
           </ul>
         </article>
-
       </div>
-      
-    </section>
+  </section>
   )
 }
 
